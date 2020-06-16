@@ -11,6 +11,6 @@ A simple publishable currency converter app 🔥
 
 <p float="left">
   <img src="/Screenshot_1592327776.png" width="100" />
-  <img src="/Screenshot_1592327709.png" width="100" /> 
-  <img src="/Screenshot_1592327721.png" width="100" />
+  <img src="/Screenshot_1592327809.png" width="100" /> 
+  <img src="/Screenshot_1592327821.png" width="100" />
 </p>
